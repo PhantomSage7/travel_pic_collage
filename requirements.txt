@@ -3,3 +3,4 @@ torch
 transformers
 diffusers
 Pillow
+altair==4.2.0
